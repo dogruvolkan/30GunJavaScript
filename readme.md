@@ -7,7 +7,7 @@
 |01          |[JavaScripte Giriş](https://github.com/dogruvolkan/30GunJavaScript/tree/master/01_Js_Giris)          |
 |02          |[veri türleri](https://github.com/dogruvolkan/30GunJavaScript/tree/master/02_veri_Turleri)           |
 |03          |[boolean & operator & date](https://github.com/dogruvolkan/30GunJavaScript/tree/master/03_boolean_operator_date)                  |
-|04          |koşullar                     |
+|04          |[koşullar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/04-kosul)                     |
 |05          |Diziler                      |
 |06          |Döngüler                     |
 |07          |fonksiyonlar                 |
