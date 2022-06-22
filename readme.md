@@ -4,7 +4,7 @@
 
 | Numara     | Konu                        |
 |:-----------|:--------                    |
-|01          |Js giriş                     |
+|01          |[JavaScripte Giriş](https://github.com/dogruvolkan/30GunJavaScript/tree/master/01_Js_Giris)                    |
 |02          |veri türleri                 |
 |03          |boolean                      |
 |04          |koşullar                     |
