@@ -1,12 +1,12 @@
-# 30 GÜN JAVASCRİPT
+# 30 GÜN JAVASCRİPT   
 
 ## KONU BAŞLIKLARI
 
 | Numara     | Konu                        |
 |:-----------|:--------                    |
-|01          |[JavaScripte Giriş](https://github.com/dogruvolkan/30GunJavaScript/tree/master/01_Js_Giris)                    |
-|02          |veri türleri                 |
-|03          |boolean                      |
+|01          |[JavaScripte Giriş](https://github.com/dogruvolkan/30GunJavaScript/tree/master/01_Js_Giris)          |
+|02          |[veri türleri](https://github.com/dogruvolkan/30GunJavaScript/tree/master/02_veri_Turleri)           |
+|03          |(boolean & operator & date)[]                    |
 |04          |koşullar                     |
 |05          |Diziler                      |
 |06          |Döngüler                     |
