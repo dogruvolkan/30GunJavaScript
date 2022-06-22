@@ -16,10 +16,12 @@ const gravity = 9.81;
 const boilingPoint =100;
 const PI =3.14;
 
+console.log(gravity , boilingPoint , PI);
+
 
 //değişkenleri bir satırda virgül ile tanımlama
 
-let name ="volkan", job="software develooper",live="turkey";
+let ad ="volkan", is="software develooper",ulke="turkey";
 
-console.log(name);
-console.log(job);
+console.log(ad);
+console.log(is);
