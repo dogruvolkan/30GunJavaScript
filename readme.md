@@ -10,7 +10,7 @@
 |04          |[koşullar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/04-kosul)                     |
 |05          |[Diziler](https://github.com/dogruvolkan/30GunJavaScript/tree/master/05_diziler)                     |
 |06          |[Döngüler](https://github.com/dogruvolkan/30GunJavaScript/tree/master/06_donguler)                     |
-|07          |fonksiyonlar                 |
+|07          |[fonksiyonlar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/07_fonksiyonlar)            |
 |08          |Object                       |
 |09          |yüksek seviyeli fonksiyonlar |
 |10          |sets ve maps                 |
