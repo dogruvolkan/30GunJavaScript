@@ -8,15 +8,15 @@
 
 var selam = "hi everyone";
 
-function sayHi(){
-    console.log(selam);   //selam değişkeni global her yerden erişilir
+function sayHi() {
+    console.log(selam); //selam değişkeni global her yerden erişilir
 }
 sayHi();
 
 
-function topla(){
-    let sayi =15;
-    return sayi +5;
+function topla() {
+    let sayi = 15;
+    return sayi + 5;
 }
 
 //console.log(sayi);   sayiya erişemeyiz çünkü local
@@ -25,14 +25,14 @@ console.log(topla());
 
 //object
 
-const person ={
-    firstName :"ali",
-    birthYear:2000,
+const person = {
+    firstName: "ali",
+    birthYear: 2000,
     city: "turkey",
     //obje içerisine arrow function eklediğimizde this anahtar sözcüğünü kullanamayız
-    calculateAge : function(){
+    calculateAge: function () {
         const tarih = new Date();
-        return tarih.getFullYear()-this.birthYear;
+        return tarih.getFullYear() - this.birthYear;
     }
 }
 
