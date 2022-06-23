@@ -12,7 +12,7 @@
 |06          |[Döngüler](https://github.com/dogruvolkan/30GunJavaScript/tree/master/06_donguler)                     |
 |07          |[fonksiyonlar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/07_fonksiyonlar)            |
 |08          |[Object](https://github.com/dogruvolkan/30GunJavaScript/tree/master/08-object)                      |
-|09          |yüksek seviyeli fonksiyonlar |
+|09          |[yüksek seviyeli fonksiyonlar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/09_yuksekSeviyeliFonks) |
 |10          |sets ve maps                 |
 |11          |destructuring and spreading  |
 |12          |reg exp                      |
