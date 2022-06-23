@@ -9,7 +9,7 @@
 |03          |[boolean & operator & date](https://github.com/dogruvolkan/30GunJavaScript/tree/master/03_boolean_operator_date)                  |
 |04          |[koşullar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/04-kosul)                     |
 |05          |[Diziler](https://github.com/dogruvolkan/30GunJavaScript/tree/master/05_diziler)                     |
-|06          |Döngüler                     |
+|06          |[Döngüler](https://github.com/dogruvolkan/30GunJavaScript/tree/master/06_donguler)                     |
 |07          |fonksiyonlar                 |
 |08          |Object                       |
 |09          |yüksek seviyeli fonksiyonlar |
