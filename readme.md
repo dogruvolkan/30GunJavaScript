@@ -13,7 +13,7 @@
 |07          |[fonksiyonlar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/07_fonksiyonlar)            |
 |08          |[Object](https://github.com/dogruvolkan/30GunJavaScript/tree/master/08-object)                      |
 |09          |[yüksek seviyeli fonksiyonlar](https://github.com/dogruvolkan/30GunJavaScript/tree/master/09_yuksekSeviyeliFonks) |
-|10          |sets ve maps                 |
+|10          |[sets ve maps]  (https://github.com/dogruvolkan/30GunJavaScript/tree/master/10_sets_maps)               |
 |11          |destructuring and spreading  |
 |12          |reg exp                      |
 |13          |console object methods       |
