@@ -16,7 +16,7 @@
 |10          |[sets ve maps](https://github.com/dogruvolkan/30GunJavaScript/tree/master/10_sets_maps)               |
 |11          |[destructuring and spreading](https://github.com/dogruvolkan/30GunJavaScript/tree/master/11_destructuring_spread) |
 |12          |[reg exp](https://github.com/dogruvolkan/30GunJavaScript/tree/master/12_regexp)                   |
-|13          |console object methods       |
+|13          |[console object methods](https://github.com/dogruvolkan/30GunJavaScript/tree/master/13_console)       |
 |14          |hata yönetimi                |
 |15          |classes                      |
 |16          |json                         |
