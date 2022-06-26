@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        console.log("hello");
+        console.warn("hello");
+        console.error("hello");
+        const names = ["John", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary", "Jane", "Mary"];
+        console.table(names);
+        console.time("forEach loop");
+        const sonuc = names.forEach(item=>{
+            console.log(item);
+        })
+        console.timeEnd('forEach loop')
+        
+        console.info("hello");
+        console.clear();
+    </script>
+</body>
+</html>
