@@ -19,7 +19,7 @@
 |13          |[console object methods](https://github.com/dogruvolkan/30GunJavaScript/tree/master/13_console)       |
 |14          |[hata yönetimi](https://github.com/dogruvolkan/30GunJavaScript/tree/master/14_hata)               |
 |15          |[classes](https://github.com/dogruvolkan/30GunJavaScript/tree/master/15_classes)                      |
-|16          |json                         |
+|16          |[json](https://github.com/dogruvolkan/30GunJavaScript/tree/master/16_Json)                        |
 |17          |web storages                 |
 |18          |promises                     |
 |19          |Closures                     |
