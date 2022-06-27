@@ -20,7 +20,7 @@
 |14          |[hata yönetimi](https://github.com/dogruvolkan/30GunJavaScript/tree/master/14_hata)               |
 |15          |[classes](https://github.com/dogruvolkan/30GunJavaScript/tree/master/15_classes)                      |
 |16          |[json](https://github.com/dogruvolkan/30GunJavaScript/tree/master/16_Json)                        |
-|17          |web storages                 |
+|17          |[web storages](https://github.com/dogruvolkan/30GunJavaScript/tree/master/17_storage)                 |
 |18          |promises                     |
 |19          |Closures                     |
 |20          |writing clean code           |
