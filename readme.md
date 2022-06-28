@@ -21,16 +21,15 @@
 |15          |[classes](https://github.com/dogruvolkan/30GunJavaScript/tree/master/15_classes)                      |
 |16          |[json](https://github.com/dogruvolkan/30GunJavaScript/tree/master/16_Json)                        |
 |17          |[web storages](https://github.com/dogruvolkan/30GunJavaScript/tree/master/17_storage)                 |
-|18          |promises                     |
-|19          |Closures                     |
-|20          |writing clean code           |
-|21          |DOM                          |
-|22          |Manipulating DOM object      |
-|23          |event listener               |
-|24          |project solar system         |
-|25          |project data visualization   |
-|26          |project data visualization2  |
-|27          |project portfolio            |
-|28          |project leaderboard          |
-|29          |project animating characters |
-|30          |project final                |
+|18          |[promises](https://github.com/dogruvolkan/30GunJavaScript/tree/master/18_promises)                    |
+|19         |writing clean code           |
+|20          |DOM                          |
+|21          |Manipulating DOM object      |
+|22          |event listener               |
+|23          |project solar system         |
+|24          |project data visualization   |
+|25          |project data visualization2  |
+|26          |project portfolio            |
+|27          |project leaderboard          |
+|28          |project animating characters |
+|29          |project final                |
