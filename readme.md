@@ -22,14 +22,12 @@
 |16          |[json](https://github.com/dogruvolkan/30GunJavaScript/tree/master/16_Json)                        |
 |17          |[web storages](https://github.com/dogruvolkan/30GunJavaScript/tree/master/17_storage)                 |
 |18          |[promises](https://github.com/dogruvolkan/30GunJavaScript/tree/master/18_promises)                    |
-|19         |writing clean code           |
+|19         |[writing clean code](https://github.com/dogruvolkan/30GunJavaScript/tree/master/19_cleanCode)           |
 |20          |DOM                          |
-|21          |Manipulating DOM object      |
-|22          |event listener               |
-|23          |project solar system         |
-|24          |project data visualization   |
-|25          |project data visualization2  |
-|26          |project portfolio            |
-|27          |project leaderboard          |
-|28          |project animating characters |
-|29          |project final                |
+|21          |project solar system         |
+|22          |project data visualization   |
+|23          |project data visualization2  |
+|24          |project portfolio            |
+|25          |project leaderboard          |
+|26          |project animating characters |
+|27          |project final                |
