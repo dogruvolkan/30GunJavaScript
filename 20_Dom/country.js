@@ -259,11 +259,12 @@ countryList.forEach(ulke=>{
     rowDom.classList.add("row");
     anaKutuDom.appendChild(rowDom);
     const colonDom = document.createElement("div");
-    colonDom.classList.add("col-md-2","shadow","kutu");
+    colonDom.classList.add("col-md-4","shadow","kutu");
+	colonDom.classList.add("bg-dark" ,"text-light" )
     rowDom.appendChild(colonDom);
     const p  =document.createElement("p"); 
     p.textContent = ulke;
-    p.classList.add("text-center")
+    p.classList.add("my-4");
     colonDom.appendChild(p);
 })
 
