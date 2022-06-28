@@ -22,7 +22,7 @@
 |16          |[json](https://github.com/dogruvolkan/30GunJavaScript/tree/master/16_Json)                        |
 |17          |[web storages](https://github.com/dogruvolkan/30GunJavaScript/tree/master/17_storage)                 |
 |18          |[promises](https://github.com/dogruvolkan/30GunJavaScript/tree/master/18_promises)                    |
-|19         |writing clean code           |
+|19         |[writing clean code](https://github.com/dogruvolkan/30GunJavaScript/tree/master/19_cleanCode)           |
 |20          |DOM                          |
 |21          |Manipulating DOM object      |
 |22          |event listener               |
