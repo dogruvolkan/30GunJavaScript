@@ -23,7 +23,7 @@
 |17          |[web storages](https://github.com/dogruvolkan/30GunJavaScript/tree/master/17_storage)                 |
 |18          |[promises](https://github.com/dogruvolkan/30GunJavaScript/tree/master/18_promises)                    |
 |19         |[writing clean code](https://github.com/dogruvolkan/30GunJavaScript/tree/master/19_cleanCode)           |
-|20          |DOM                          |
+|20          |[DOM](https://github.com/dogruvolkan/30GunJavaScript/tree/master/20_Dom)                         |
 |21          |project solar system         |
 |22          |project data visualization   |
 |23          |project data visualization2  |
